@@ -2,5 +2,4 @@
 
 ## Special Thanks 🎁
 
-- [Jan Raasch](https://www.janraasch.com) for sharing this template!
-- Go to [Yonatan Wolowelsky](https://github.com/grmmph), for the great [GhostScroll](https://github.com/grmmph/GhostScroll)-theme which formed the basis of this [Hugo](https://gohugo.io/)-theme.
+- [Joe Jansen](https://github.com/joejansen) for creating the original sale site that we have cloned and repurposed to resell the truck and camper.

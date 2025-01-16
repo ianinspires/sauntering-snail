@@ -4,15 +4,13 @@ weight: 2
 header_menu: true
 ---
 
-The camper is a 2021 model year Palomino SS-1200 which we bought new in November 2020. The [factory model from Palomino](https://palominorv.com/truck-campers/backpack-truck-camper/SS-1200/2606) is 12 feet 10 inches long and ours had a factory dry weight of 1491 pounds when we purchased it. This model in [recent model years is currently listing for $17k to $25k](https://www.rvtrader.com/2020-Any-Palomino-Backpack-Edition-Ss-1200-Truck-Camper/rvs-for-sale?type=Truck%20Camper%7C198074&make=Palomino%7C2289282&model=BACKPACK%20EDITION%7C764956346&trim=SS-1200%7C38001&year=2020%3A%2A&sort=year%3Adesc&page=1) without all of the upgrades we have made.
+The camper is a 2021 model year Palomino SS-1200 which the previous owner bought new in November 2020. The [factory model from Palomino](https://palominorv.com/truck-campers/backpack-truck-camper/SS-1200/2606) is 12 feet 10 inches long and ours had a factory dry weight of 1491 pounds when we purchased it. This model in [recent model years is currently listing for $17k to $25k](https://www.rvtrader.com/2020-Any-Palomino-Backpack-Edition-Ss-1200-Truck-Camper/rvs-for-sale?type=Truck%20Camper%7C198074&make=Palomino%7C2289282&model=BACKPACK%20EDITION%7C764956346&trim=SS-1200%7C38001&year=2020%3A%2A&sort=year%3Adesc&page=1) without all of the upgrades we and the previous owner have made.
 
-This is a very comfortable and fully featured pop up camper and we had a blast living in it. I wrote more about [our assessment of the camper in this blog post](https://www.truckcamperadventure.com/review-of-the-palomino-ss-1200-pop-up-truck-camper/) from July 2021.
-
-We just spent a few days in May 2022 doing a deep clean in the camper and putting a fresh sealing on the roof and exterior and the camper looks better than new.
+This is a very comfortable and fully featured pop up camper and we had a blast living in it, including an 8 month trip down to Costa Rica where we nationalized it. You can read [an account from the previous owner](https://www.truckcamperadventure.com/review-of-the-palomino-ss-1200-pop-up-truck-camper/) from July 2021.
 
 ---
 
-### Upgrades we've made to the camper
+### Upgrades made to the camper
 
 As we've traveled in the camper we've made a number of upgrades including:
 
